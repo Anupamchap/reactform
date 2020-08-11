@@ -2,7 +2,6 @@ import React from 'react';
 import Headers from './component/Header'
 import Applicantform from './component/Applicantform'
 
-
 function App() {
   return (
     <div>
@@ -11,5 +10,6 @@ function App() {
     </div>
   );
 }
+
 
 export default App;
